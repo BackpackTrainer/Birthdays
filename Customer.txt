@@ -1,5 +1,5 @@
 Cutomer
 Account Number:  1
-Name:  Fred
-Credit Limit:  $1,000
+Name:  Freddy
+Credit Limit:  $600
 Local Store:  Indianapolis
