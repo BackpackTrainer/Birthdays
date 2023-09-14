@@ -1,0 +1,5 @@
+Cutomer
+Account Number:  1
+Name:  Fred
+Credit Limit:  $1,000
+Local Store:  Indianapolis
